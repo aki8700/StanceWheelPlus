@@ -1,0 +1,19 @@
+{
+  "Stance.PatrolStance": "Патруль",
+  "Stance.LowReady": "Низкая готовность",
+  "Stance.None": "Нейтральная",
+  "Stance.HighReady": "Высокая готовность",
+  "Stance.ShortStock": "Укороченный приклад",
+  "Stance.ActiveAiming": "Активное прицеливание",
+  "Stance.LeftShoulder": "Левое плечо",
+  "Stance.PistolCompress": "Сжатый хват пистолета",
+  "Details.None": "Обычная стойка (у плеча) / Без модификаторов",
+  "Details.BlocksFiring": "Сброс при выстреле",
+  "Details.CanFire": "Можно стрелять",
+  "Details.WalkSpeed": "Движение {0}",
+  "Details.Hipfire": "Разброс от бедра ×{0}",
+  "Details.StaminaRegen": "Восст. стамины рук",
+  "Details.StaminaDrain": "Расход стамины рук",
+  "Details.TacSprint": "Такт. спринт",
+  "Details.Separator": " / "
+}

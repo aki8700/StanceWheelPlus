@@ -1,0 +1,19 @@
+{
+  "Stance.PatrolStance": "Patrol",
+  "Stance.LowReady": "Low Ready",
+  "Stance.None": "Neutral",
+  "Stance.HighReady": "High Ready",
+  "Stance.ShortStock": "Short Stock",
+  "Stance.ActiveAiming": "Active Aim",
+  "Stance.LeftShoulder": "Left Shoulder",
+  "Stance.PistolCompress": "Pistol Compress",
+  "Details.None": "Standard stance (shouldered) / No modifiers",
+  "Details.BlocksFiring": "Cancels on fire",
+  "Details.CanFire": "Can fire",
+  "Details.WalkSpeed": "Move {0}",
+  "Details.Hipfire": "Hipfire spread ×{0}",
+  "Details.StaminaRegen": "Arm stamina regen",
+  "Details.StaminaDrain": "Arm stamina drain",
+  "Details.TacSprint": "Tac sprint",
+  "Details.Separator": " / "
+}

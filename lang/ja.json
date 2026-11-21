@@ -1,0 +1,19 @@
+{
+  "Stance.PatrolStance": "パトロール",
+  "Stance.LowReady": "ローレディ",
+  "Stance.None": "ニュートラル",
+  "Stance.HighReady": "ハイレディ",
+  "Stance.ShortStock": "ショートストック",
+  "Stance.ActiveAiming": "アクティブエイム",
+  "Stance.LeftShoulder": "左肩",
+  "Stance.PistolCompress": "ピストル（引きつけ）",
+  "Details.None": "通常の構え（肩付け）/ 補正なし",
+  "Details.BlocksFiring": "撃つと解除",
+  "Details.CanFire": "射撃可",
+  "Details.WalkSpeed": "移動{0}",
+  "Details.Hipfire": "腰だめのブレ×{0}",
+  "Details.StaminaRegen": "腕スタミナ回復",
+  "Details.StaminaDrain": "腕スタミナ消費",
+  "Details.TacSprint": "タクティカルスプリント可",
+  "Details.Separator": " / "
+}

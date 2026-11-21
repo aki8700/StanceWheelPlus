@@ -1,0 +1,19 @@
+{
+  "Stance.PatrolStance": "Patrulla",
+  "Stance.LowReady": "Listo bajo",
+  "Stance.None": "Neutral",
+  "Stance.HighReady": "Listo alto",
+  "Stance.ShortStock": "Culata corta",
+  "Stance.ActiveAiming": "Apuntado activo",
+  "Stance.LeftShoulder": "Hombro izquierdo",
+  "Stance.PistolCompress": "Pistola recogida",
+  "Details.None": "Postura estándar (al hombro) / Sin modificadores",
+  "Details.BlocksFiring": "Se cancela al disparar",
+  "Details.CanFire": "Puede disparar",
+  "Details.WalkSpeed": "Velocidad {0}",
+  "Details.Hipfire": "Dispersión cadera ×{0}",
+  "Details.StaminaRegen": "Regenera estamina brazos",
+  "Details.StaminaDrain": "Consume estamina brazos",
+  "Details.TacSprint": "Esprint táctico",
+  "Details.Separator": " / "
+}

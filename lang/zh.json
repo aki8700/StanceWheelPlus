@@ -1,0 +1,19 @@
+{
+  "Stance.PatrolStance": "巡逻姿态",
+  "Stance.LowReady": "低姿戒备",
+  "Stance.None": "默认姿态",
+  "Stance.HighReady": "高姿戒备",
+  "Stance.ShortStock": "短托抵肩",
+  "Stance.ActiveAiming": "主动瞄准",
+  "Stance.LeftShoulder": "左肩切换",
+  "Stance.PistolCompress": "手枪近距收枪",
+  "Details.None": "常规持枪（抵肩）/ 无加成",
+  "Details.BlocksFiring": "开火即取消",
+  "Details.CanFire": "可射击",
+  "Details.WalkSpeed": "移速 {0}",
+  "Details.Hipfire": "腰射散布 ×{0}",
+  "Details.StaminaRegen": "恢复手臂体力",
+  "Details.StaminaDrain": "消耗手臂体力",
+  "Details.TacSprint": "可战术冲刺",
+  "Details.Separator": " / "
+}
